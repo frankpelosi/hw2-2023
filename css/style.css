@@ -44,8 +44,8 @@ div.red{
 div.blue{
     background-color:#0000ff;
     text-align:left;
-    margin-right: 50px;
-    border-width: 2px 5px 0 0;
+    margin-right:50px;
+    border-width:2px 5px 0 0;
 }
 div.blue>p,div.blue>h2{
     color:#C4C4C4
