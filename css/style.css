@@ -18,11 +18,11 @@ p{
     padding:10px 0 0 10px;
 }
 img{
-    width:250px;
     display: block;
-    text-align: center;
+    width:250px;
     margin-left: auto;
     margin-right: auto;
+    border:10px dashed #ffffff
     border:10px dashed #ffffff
 }
 div{
